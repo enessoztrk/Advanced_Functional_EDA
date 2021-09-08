@@ -9,15 +9,15 @@
 ▶ The data set consists of records created in each sales transaction.<br/><br/>
 
 ▶ This means that a user with certain demographics has more than one may have shopped.<br/><br/>
-## Variables
+## • Variables
 ● PRICE – Customer's spending amount<br/>
 ● SOURCE – The type of device the customer is connecting to<br/>
 ● SEX – Gender of the client<br/>
 ● COUNTRY – Country of the customer<br/>
 ● AGE – Customer's age<br/>
 
-### Previous
+### • Previous
 ![images](https://github.com/enessoztrk/Advanced_Functional_EDA/blob/main/img/g1.png) <br/><br/>
-### Later
+### • Later
 ![images2](https://github.com/enessoztrk/Advanced_Functional_EDA/blob/main/img/g2.png)
 
