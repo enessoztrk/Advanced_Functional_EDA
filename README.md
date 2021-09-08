@@ -10,11 +10,11 @@
 
 ▶ This means that a user with certain demographics has more than one may have shopped.<br/><br/>
 ## Variables
-PRICE – Customer's spending amount<br/>
-SOURCE – The type of device the customer is connecting to<br/>
-SEX – Gender of the client<br/>
-COUNTRY – Country of the customer<br/>
-AGE – Customer's age<br/>
+● PRICE – Customer's spending amount<br/>
+● SOURCE – The type of device the customer is connecting to<br/>
+● SEX – Gender of the client<br/>
+● COUNTRY – Country of the customer<br/>
+● AGE – Customer's age<br/>
 
 ### Previous
 ![images](https://github.com/enessoztrk/Advanced_Functional_EDA/blob/main/img/g1.png) <br/><br/>
