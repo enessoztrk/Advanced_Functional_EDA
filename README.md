@@ -1,4 +1,4 @@
-# Advanced_Functional_EDA
+# ADVANCED FUNCTIONAL EXPLORABLE DATA ANALYSIS
 ## Business Problem
 ![This is an image](https://www.socialbusinesstr.com/wp-content/uploads/2018/03/sadakat_ve_calisma_hayati-770x420.jpg)<br/><br/>
 ▶ A game company using some features of its customers new level-based customer definitions (persona) and add these new customer definitions. Create segments according to these segments and create new How much is the average number of customers coming to the company? He wants to guess what he can earn. <br/><br/>
